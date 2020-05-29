@@ -80,13 +80,13 @@ header {
 .content:before{
     content:url(../img/l.png);
     position: absolute;
-    right: 125%;
+    right: 100%;
     top: 35%;
 }
 .content:after{
     content:url(../img/r.png);
     position: absolute;
-    left: 125%;
+    left: 100%;
     top: 35%;
 }
 .slider {

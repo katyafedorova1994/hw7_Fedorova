@@ -34,18 +34,6 @@
     .margin{
         padding-top: 50px;
     }
-    .content:before{
-        content:url(../img/l.png);
-        position: absolute;
-        right: 100%;
-        top: 35%;
-    }
-    .content:after{
-        content:url(../img/r.png);
-        position: absolute;
-        left: 100%;
-        top: 35%;
-    }
 }
 
 @media (max-width: 768px) {
